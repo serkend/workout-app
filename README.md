@@ -1,4 +1,4 @@
-# workout-app #android #room
+# workout-app
 
 
 This project represents 7 min workout app with room database library.
